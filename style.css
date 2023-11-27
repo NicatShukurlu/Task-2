@@ -335,6 +335,7 @@
   line-height: 150%;
   letter-spacing: 0.5px;
   margin-top: 12px;
+  height: 60px;
 }
 
 .around {
@@ -411,7 +412,7 @@ font-family: Poppins;
 font-size: 18px;
 font-style: normal;
 font-weight: 400;
-ne-height: 150%;li
+line-height: 150%;
 }
 
 .experience-item-2{
@@ -522,9 +523,6 @@ font-weight: 500;
 line-height: 150%;
 }
 
-.destination-packet{
-  margin-top: -29px;
-}
 
 
 .others-head-text{
@@ -757,10 +755,10 @@ gap: 10px;
   display: flex;
   list-style: none;
   gap: 20px;
-  margin-right: 20px;
+  margin-right: 62px;
   color: #FFF;
 
-/* Text/Small/Normal */
+
 font-family: Roboto;
 font-size: 14px;
 font-style: normal;
@@ -770,7 +768,7 @@ cursor: pointer;
 }
 
 .footer-word{
-  margin-left: 20px;
+  margin-left: 62px;
   color: #FFF;
 
 
